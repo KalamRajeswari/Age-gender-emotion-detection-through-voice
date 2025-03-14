@@ -15,7 +15,7 @@
 
 ##To run this repository
   clone this repository
-  Download the dataset
+  Download the dataset[common voice dataset,ravdness dataset]
   Extract the dataset into your repository
   Run Age-prediction.ipynb
   Run Emotion-prediction.ipynb
